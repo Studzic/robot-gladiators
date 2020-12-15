@@ -1,0 +1,1 @@
+window.alert("Do you like meat?");
